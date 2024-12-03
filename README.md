@@ -22,34 +22,61 @@ The Alumni Association platform is a digital solution designed to foster lifelon
 
 ## Technology Stack
 Frontend:
+
 Web: React.js, Redux for state management
+
 Mobile: Flutter or React Native
+
 Backend:
+
 Node.js with Express.js or Python with Django
+
 RESTful APIs or GraphQL
+
 Database:
+
 PostgreSQL/MySQL for structured data
+
 MongoDB for unstructured data
+
 Hosting:
+
 AWS (EC2, S3) or Azure (App Services, Blob Storage)
+
 Firebase for notifications (optional)
+
 Tools:
+
 Docker for containerization
+
 Jenkins/GitHub Actions for CI/CD
+
 Others:
+
 Authentication: OAuth 2.0 or Firebase Auth
+
 Analytics: Google Analytics or Mixpanel
 
 
 ## Dependencies
 Third-party Services:
+
 Payment Gateway: Stripe/PayPal integration.
+
 Communication: Twilio for SMS and SendGrid for emails.
+
 APIs:
+
 Location-based networking (Google Maps API).
+
 Libraries/Frameworks:
+
 UI Components (Material-UI/Ant Design for web, Flutter Widgets for mobile).
+
 Hosting Providers:
+
 AWS, Azure, or Firebase.
+
 Testing:
+
 Tools like Jest, Selenium, and Appium for unit and UI testing.
