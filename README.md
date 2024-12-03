@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03/12/24
+## Register Number:24006426
+## Name: Vignesh S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,46 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+The Alumni Association platform is a digital solution designed to foster lifelong engagement between alumni and their alma mater. Alumni play a vital role in contributing to the growth of their institutions through networking, mentorship, donations, and sharing success stories. However, many institutions struggle to maintain strong connections with alumni due to a lack of effective communication channels and engagement tools. This platform addresses these challenges by offering an integrated system through which alumni can stay connected, contribute to their alma mater, and collaborate with their peers.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/176913c2-9101-464e-8a6f-d312048f9537)
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/6a8120a0-4738-425b-911a-71b78e965bf7)
 
 
 ## Technology Stack
+Frontend:
+Web: React.js, Redux for state management
+Mobile: Flutter or React Native
+Backend:
+Node.js with Express.js or Python with Django
+RESTful APIs or GraphQL
+Database:
+PostgreSQL/MySQL for structured data
+MongoDB for unstructured data
+Hosting:
+AWS (EC2, S3) or Azure (App Services, Blob Storage)
+Firebase for notifications (optional)
+Tools:
+Docker for containerization
+Jenkins/GitHub Actions for CI/CD
+Others:
+Authentication: OAuth 2.0 or Firebase Auth
+Analytics: Google Analytics or Mixpanel
 
 
 ## Dependencies
-
+Third-party Services:
+Payment Gateway: Stripe/PayPal integration.
+Communication: Twilio for SMS and SendGrid for emails.
+APIs:
+Location-based networking (Google Maps API).
+Libraries/Frameworks:
+UI Components (Material-UI/Ant Design for web, Flutter Widgets for mobile).
+Hosting Providers:
+AWS, Azure, or Firebase.
+Testing:
+Tools like Jest, Selenium, and Appium for unit and UI testing.
